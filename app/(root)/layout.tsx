@@ -26,7 +26,7 @@ export default function RootLayout({
   return (
     <ClerkProvider>
       <html lang="en">
-        <body className={`max-w-[1440px] ${inter.className}`}>
+        <body className={` ${inter.className}`}>
           <ToasterProvider />
           <Navbar />
           {children}

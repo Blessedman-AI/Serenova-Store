@@ -88,6 +88,7 @@ const config: Config = {
     },
     extend: {
       colors: {
+        'orange-1': '#f68b1e',
         'red-1': '#FF0000',
         'grey-1': '#F7F7F7',
         'grey-2': '#8A8A8A',
